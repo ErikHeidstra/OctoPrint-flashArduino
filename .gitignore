@@ -22,3 +22,6 @@ OctoPrint_flashArduino.egg-info
 *.orig
 
 *.codekit
+/octoprint_flasharduino/octoprint_flasharduino.pyproj
+/octoprint_flasharduino/.vs/config/applicationhost.config
+/octoprint_flasharduino/.vs/octoprint_flasharduino/v14/.suo
